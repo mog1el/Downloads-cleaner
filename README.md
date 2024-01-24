@@ -15,7 +15,7 @@ The easiest way to do this is to do it this way:
 1. Clone the project
 2. Make sure that you have Powershell and Python (with subprocess and os libraries) installed
 3. Run the python file
-4. Add the path that you want to monitor for changes
+4. Add the path that you want to monitor for changes (in a model ...:/.../...
 5. Click ENTER and watch it run
 
 When running the project next time you won't need to add the path. If you want to change it tho, delete the path from directory.txt and you are ready to go.
