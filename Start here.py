@@ -1,10 +1,10 @@
 import subprocess
+import os
 
-print("I hope that you have PowerShell installed")
-directory = input("Write the directory that you want to keep organized: ")
-
-with open("directory.txt", "w") as file:
-    file.write(directory)
+if os.stat("directory.txt").st_size == 0:
+    directory = input("Write the directory that you want to keep organized: ")
+    with open("directory.txt", "w") as file:
+        file.write(directory)
 
 
 powershell_path = r'D:\Downloads-cleaner\script_windows.ps1'
