@@ -1,6 +1,6 @@
-# File  sorter designed for Windows
+# File  sorter
 
-## A fully functional file sorter written in Powershell and Python enabling user to automatically sort files created or added into your directory!
+## A fully functional file sorter written in Powershell/Bash and Python enabling user to automatically sort files created or added into your directory!
 
 This is a project that was built to learn automation using PowerShell, PowerShell execution from Python and making life easier. This simple code makes your newly created/moved files go into one of the three categories:
 
