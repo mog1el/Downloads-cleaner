@@ -20,10 +20,6 @@ The easiest way to do this is to do it this way:
 
 When running the project next time you won't need to add the path. If you want to change it tho, delete the path from directory.txt and you are ready to go.
 
-## How to sort already existing files
-
-The thing is that I don't know yet. I am currently working on a project that will let you do it, so stay tuned.
-
 ## Find a bug?
 
 If you found an issue or would like to submit an improvement to this project, please submit an issue using the issues tab above. If you would like to submit a PR with a fix, please reference the issue you created!
